@@ -1,8 +1,14 @@
 <!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0">  </head> <body> <h1> Cybersecurity Portfolio</h1> <h2>Naam: Christopher Curial </h2> <h3>Profielbeschrijving:</h3> <p>Een gepassioneerde cyber seucrity persoon met expertise in Javascript, Pyhton, Html , CSS, Ubuntu , Kali linux , SQL, NOSQL Altijd op zoek naar nieuwe uitdagingen en mogelijkheden om te groeien.</p> </p> <h3></h3> <p>
 
 <a href=https://www.linkedin.com/in/christopher-curial-7b43481a3/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h2>Certificaten</h2>
+<img src="https://img.shields.io/badge/Google-IT%20Support-blue?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Google-Cyber%20Security-blue?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet%20Certified%20Associate%20in%20Cybersecurity-FF0000?style=for-the-badge&logo=Fortinet&logoColor=white" />
+ <img src="https://img.shields.io/badge/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity-FF0000?style=for-the-badge&logo=Fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO%2FIEC%2027001%20Information%20Security%20Associate-FF0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202023%20Certified%20Foundations%20Associate-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
 
- <h2>Certificaten</h2>
+ 
   <ol>
     <li>
       <h3> Google It Support Professional  - Coursera</h3>
@@ -39,9 +45,12 @@
 </head>
 <body>
   <h2> linux Tools</h2>
-
-  <div>
-    <h3>1. Kali Linux Katloonin</h3>
+<img src="https://img.shields.io/badge/Kali%20Linux-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-FF0000?style=for-the-badge&logo=ubuntu&logoColor=white" />
+ <img src="https://img.shields.io/badge/Metasploit%20Framework-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
+ <img src="https://img.shields.io/badge/Kali%20Linux%20Katoolin-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+ <div>
+    <h3> 1. Kali Linux Katloonin</h3>
     <p><strong>Beschrijving:</strong> Kali Linux Katoolin biedt een waardevolle toevoeging aan het arsenaal van Linux-gebruikers die geïnteresseerd zijn in cybersecurity en penetratietesten, waardoor ze gemakkelijk toegang hebben tot een uitgebreide reeks professionele beveiligingshulpmiddelen. .</p>
     <p><strong>Repository:</strong> <a href="link-naar-repository">Kali Linux Katloonin</a></p>
     <p><strong>Installatie:</strong> .</p>
@@ -53,8 +62,9 @@
 <h3>2. ubuntu </h3>
     <p><strong>Beschrijving:</strong> ubuntu  biedt een waardevolle toevoeging aan het arsenaal van Linux-gebruikers. .</p>
     <p></a></p>
-<h3>2. metaspliot framework </h3>
-    <p><strong>Beschrijving:</strong> ubuntu  biedt een waardevolle toevoeging aan het arsenaal van Linux-gebruikers. .</p>
+
+<h3> 3. metaspliot framework </h3>
+    <p><strong>Beschrijving:Metasploit is een krachtig open-source penetratietestframework dat wordt gebruikt voor het ontwikkelen, testen en uitvoeren van exploits tegen beveiligingskwetsbaarheden in computersystemen. Het werd oorspronkelijk ontwikkeld door HD Moore in 2003 en is sindsdien uitgegroeid tot een van de meest populaire en veelgebruikte tools in de cybersecuritygemeenschap.</strong> . .</p>
     <p></a></p>
     
     
