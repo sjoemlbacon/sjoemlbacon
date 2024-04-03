@@ -51,10 +51,10 @@
  <img src="https://img.shields.io/badge/Kali%20Linux%20Katoolin-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
  <div>
     <h3> 1. Kali Linux Katloonin</h3>
-    <p><strong>Beschrijving:</strong> Kali Linux Katoolin biedt een waardevolle toevoeging aan het arsenaal van Linux-gebruikers die geïnteresseerd zijn in cybersecurity en penetratietesten, waardoor ze gemakkelijk toegang hebben tot een uitgebreide reeks professionele beveiligingshulpmiddelen. .</p>
-    <p><strong>Repository:</strong> <a href="link-naar-repository">Kali Linux Katloonin</a></p>
-    <p><strong>Installatie:</strong> .</p>
-    .</p>
+    <p><strong>Beschrijving:</strong> Kali Linux Katoolin biedt een waardevolle toevoeging aan het arsenaal van Linux-gebruikers die geïnteresseerd zijn in cybersecurity en penetratietesten, waardoor ze gemakkelijk toegang hebben tot een uitgebreide reeks professionele beveiligingshulpmiddelen. </p>
+    <p><strong></strong> <a </a></p>
+    <p><strong></strong> </p>
+    </p>
   </div>
 </body>
 </html>
@@ -70,13 +70,21 @@
    
    <body>
   <h2> Script Tools </h2>
- <h3>Javascript </h3> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /> 
+
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+
+   <h3>Javascript </h3> 
     <h3>Python</h3> 
     <h3>Html</h3>  
     <h3>CSS</h3>
     
 <body>
-  <h2> projecten </h2>
+  <h2> Projecten </h2>
 
-
-      
+  <h3>Discord-bot </h3> 
+    <h3>Wireshark</h3> 
+    <h3>Servicenow</h3>  
+  new projects in development 
